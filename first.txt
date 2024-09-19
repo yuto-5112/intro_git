@@ -5,11 +5,13 @@ Gitの練習をします。
 ファイルを変更
 
 git add
+
+git add .
 ステージングエリアにファイルを追加
 
 /   git add first.txt
 ステージングエリアに置く
-
+git status で状態を見れる
 
 git commit 
 ローカルリポジトリにコミット
@@ -17,6 +19,9 @@ git commit
 /    git commit 
 vimエディターでコメントを書く（頑張って書いてね！）
 半角英数字にし、iを押し、作業　esc :wq で終了
+
+git commit -v で変更を見れる
+git log で
 
 
 git push
