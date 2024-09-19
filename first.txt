@@ -8,6 +8,7 @@ git add
 ステージングエリアにファイルを追加
 
 /   git add first.txt
+ステージングエリアに置く
 
 
 git commit 
@@ -25,3 +26,5 @@ repository name を書く
 
 gitにgithubを登録するコマンド
 
+
+git push -u origin master
