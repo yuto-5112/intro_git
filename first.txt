@@ -1,0 +1,27 @@
+Gitの練習をします。
+
+
+作業の流れ
+ファイルを変更
+
+git add
+ステージングエリアにファイルを追加
+
+/   git add first.txt
+
+
+git commit 
+ローカルリポジトリにコミット
+
+/    git commit 
+vimエディターでコメントを書く（頑張って書いてね！）
+半角英数字にし、iを押し、作業　esc :wq で終了
+
+
+git push
+リモートリポジトリにプッシュ
+githubサイトへ　New repository
+repository name を書く
+
+gitにgithubを登録するコマンド
+
