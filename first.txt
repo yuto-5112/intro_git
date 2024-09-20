@@ -22,7 +22,7 @@ vimエディターでコメントを書く（頑張って書いてね！）
 
 git commit -v で変更を見れる
 git log で
-
+git diff
 
 git push
 リモートリポジトリにプッシュ
